@@ -3,3 +3,6 @@ local_GIT_IDEA_REMOTE_TEST
 
 ----修改后提交
 UUUUUPPPPP
+
+--远程仓库中修改后同步到本地
+git--fetch
